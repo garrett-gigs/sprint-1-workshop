@@ -1,6 +1,2 @@
-guest1
-guest2
-guest3
-guestA
-guestB
-guestC
+Garrett
+Diane
